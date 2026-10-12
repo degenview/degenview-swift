@@ -1,3 +1,6 @@
+# ⚠️ New version written in Rust here: 
+# https://github.com/degenview/degenview
+
 # DegenView
 
 ![DegenView showing crypto, stock, and prediction-market charts](resources/screenshot.png)
